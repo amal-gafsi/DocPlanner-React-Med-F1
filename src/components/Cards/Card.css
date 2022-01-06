@@ -1,0 +1,23 @@
+.card{
+   
+    height: 300px;
+    width: 280px;
+    color: white;
+    text-align: left;
+    padding: 1%;
+    border-radius: 15px;
+}
+
+.card select{
+    background-color: transparent;
+}
+
+.cardPatient{
+    background-color: #00b39b;
+}
+.cardDoctor{
+    background-color: #3d83df;;
+}
+.cardClinic{
+    background-color: #1b2734;;
+}

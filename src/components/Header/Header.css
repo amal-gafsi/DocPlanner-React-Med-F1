@@ -1,0 +1,16 @@
+header img{
+    width: 20%;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    align-items: center;
+}
