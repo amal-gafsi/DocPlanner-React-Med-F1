@@ -1,23 +1,35 @@
-.card{
-   
-    height: 300px;
-    width: 280px;
-    color: white;
-    text-align: left;
-    padding: 1%;
-    border-radius: 15px;
+.card {
+  height: 300px;
+  width: 280px;
+  color: white;
+  text-align: left;
+  padding: 1%;
+  border-radius: 15px;
+  font-size: larger;
+  margin: 1%;
 }
 
-.card select{
-    background-color: transparent;
+.card select {
+  background-color: transparent;
+}
+.cardPatient {
+  background-color: #00b39b;
+}
+.cardDoctor {
+  background-color: #3d83df;
+}
+.cardClinic {
+  background-color: #1b2734;
 }
 
-.cardPatient{
-    background-color: #00b39b;
+.card select {
+  color: #fff;
+  border-color: transparent;
+  text-decoration: underline;
+  font-size: 18px;
+  margin-top: 35px;
 }
-.cardDoctor{
-    background-color: #3d83df;;
-}
-.cardClinic{
-    background-color: #1b2734;;
+
+.card img{
+  width:25px
 }

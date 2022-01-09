@@ -1,16 +1,24 @@
-header img{
-    width: 20%;
+header img {
+  width: 20%;
 }
-header ul{
-    list-style-type: none;
-    display: flex;
-    width: 20%;
-    justify-content: space-around;
+header ul {
+  list-style-type: none;
+  display: flex;
+  width: 20%;
+  justify-content: space-around;
+  color: grey;
 }
 
-header{
-    display: flex;
-    justify-content: space-around;
-    height: 70px;
-    align-items: center;
+header {
+  display: flex;
+  justify-content: space-around;
+  height: 70px;
+  align-items: center;
+  position: fixed;
+  background-color: white;
+}
+
+.active,
+.btn:hover {
+  color: #00b39b;
 }

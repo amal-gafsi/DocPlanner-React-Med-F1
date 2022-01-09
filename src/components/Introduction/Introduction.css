@@ -1,20 +1,21 @@
-.logo{
-    width: 50px;
+.logo {
+  margin-top: 10%;
+  width: 50px;
 }
 
-.title{
-    font-size: 2.125rem;
-    color: #00b39b;
+.title {
+  font-size: 2.125rem;
+  color: #00b39b;
 }
 
-.desc{
-    display: flex;
-    padding: 4% 15%;
-    text-align: left;
+.desc {
+  display: flex;
+  padding: 4% 15%;
+  text-align: left;
 }
 
-.desc p{
-    padding: 2%;
-    line-height: 200%;
-    color: #747474;
+.desc p {
+  padding: 2%;
+  line-height: 200%;
+  color: #747474;
 }
