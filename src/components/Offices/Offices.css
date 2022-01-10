@@ -1,0 +1,51 @@
+.offices {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5% 10%;
+}
+
+.offices h3 {
+  color: #00b39b;
+  font-weight: 300;
+  word-spacing: 3px;
+  letter-spacing: 2px;
+}
+
+.offices > p {
+  width: 50%;
+  color: #747474;
+  font-size: 13px;
+}
+
+.offices > div {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top:5%
+}
+
+.officeCard{
+  margin: 1%;
+  border-width: 1px;
+  background-color:whitesmoke;
+  border-radius:10px
+}
+
+.officeCard div {
+  display: flex;
+  justify-content: space-between;
+  margin:7% 8%;
+  align-items: center;
+}
+
+.officeCard p {
+  margin-top:2%
+}
+
+.officeCard button {
+  font-size:12px
+}

@@ -1,0 +1,10 @@
+.footer{
+    margin-top:10%;
+    border-top: 1px solid #ababab
+}
+
+.footer p {
+    margin-top:2%;
+    color: #ababab;
+    font-size: 12px
+}
